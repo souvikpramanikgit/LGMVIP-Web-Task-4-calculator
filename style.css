@@ -14,6 +14,7 @@ body{
 }
 
 .calculator{
+    
     position: relative;
     max-width: 21rem;
     width: 100%;
@@ -25,7 +26,6 @@ body{
 }
 
 h4{
-    
     text-align: center;
     padding-top: 0.5rem;
     font-size: 1.7rem;
